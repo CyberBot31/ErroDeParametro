@@ -5,4 +5,5 @@ placavei varchar(50) not null,
 processvei varchar(150) not null,
 obsvei varchar(500),
 varavei varchar(50) not null,
-datavei varchar(50) not null);
+datavei varchar(50) not null,
+avaliado varchar(150));
